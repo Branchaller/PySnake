@@ -4,7 +4,7 @@ The Classic Snake Game built on Python using turle.
 
 To launch PySnake you need some modules: turtle and tkinter.
 
-You can check workability of turtle and tkinter by running this commands:
+You can test availability of turtle and tkinter by running this commands:
 
 	python -m tkinter
 	python -m turtle
