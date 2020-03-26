@@ -9,7 +9,7 @@ You can check workability of turtle and tkinter by running this commands:
 	python -m tkinter
 	python -m turtle
 
-If the output is an error you should move files from the _pkgs_ folder to %PathToPython%\Lib\ folder.
+If the output is an error you should move files from the __pkgs__ folder to %PathToPython%\Lib\ folder.
 
 If modules are working OK you can launch PySnake.
 
