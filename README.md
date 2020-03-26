@@ -25,7 +25,6 @@ To launch PySnake you need to run this command:
 
 	python game.py
 
-or you can just launch game.exe.
 
 
 
